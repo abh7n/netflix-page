@@ -1,7 +1,7 @@
 Netflix Webpage
 
-![Image Description](Netflix-1.png)
-![Image Description](Netflix-2.png)
+![Image Description](netflix-1.png)
+![Image Description](netflix-2.png)
 
 
 
